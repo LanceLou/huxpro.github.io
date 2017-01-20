@@ -5,7 +5,7 @@ header-img: img/home-bg-lc.jpg
 email: loulincong@gmail.com
 description: "有关前端与计算机操作系统，计算机网络，相关基础算法，这里是娄聪的微博"
 keyword: "娄聪，lancelou, 1457564148, cdu, 王善玉, 王善玉男友"
-url: "https://lancelou.me"              # your host, for absolute URL
+url: "https://www.lancelou.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -72,7 +72,7 @@ ga_domain: lancelou.com
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "敲些代码，追追大神，依旧只会装逼！</br> 何日见暖阳!"
-sidebar-avatar: img/lance_avatar.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: ../img/lance_avatar.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
