@@ -1,12 +1,10 @@
 ---
 layout:     post
-comments:   true
-title:      "Hello lanceblog 2017"
-subtitle:   " \"Hello World, Hello Blog\""
-date:       2017-01-23 12:00:00
-author:     "lancelou"
+title:      "Hello lanceblog, 2017"
+subtitle:   "lanceblog，begain。"
+date:       2017-01-23
+author:     "LanceLou"
 header-img: "img/post-bg-2015.jpg"
-catalog: true
 tags:
     - 生活
 ---
@@ -62,5 +60,3 @@ tags:
 不管怎么说，blog终究是搭建完成了，以后估计也没有借口不写博客了！2017，新的一年，希望写更多优质的博客，为社区做多一些贡献，当然，要找一份好的工作！
 
 —— Lance 2017.01
-
-
