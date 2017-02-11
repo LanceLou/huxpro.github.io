@@ -2,7 +2,7 @@
 layout:     post
 title:      "最大最小算法之tic-tac-toe"
 subtitle:   "Lance2016总结-算法篇(1)"
-date:       2017-02-02 00:00
+date:       2017-02-11 00:00
 author:     "LanceLou"
 header-img: "img/post-tictactoe-ai-banner.png"
 catalog: true
