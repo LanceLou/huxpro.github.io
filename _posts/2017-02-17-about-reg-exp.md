@@ -27,7 +27,7 @@ tags:
 
 与子模式相关的函数有 String.prototype.match, String.prototype.replace等，下面针对replace方法来举个栗子。
 
-~~~JavaScript
+~~~js
 
 //将字符串中的字符 &、<、>、" （双引号）, 以及 ' （单引号）转换为它们对应的 HTML 实体。
 function convert(str) {
