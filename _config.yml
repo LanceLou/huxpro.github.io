@@ -4,7 +4,7 @@ SEOTitle: 娄聪的博客 | Lance Blog
 header-img: img/home-bg-lc.jpg
 email: loulincong@gmail.com
 description: "有关前端与计算机操作系统，计算机网络，相关基础算法，这里是娄聪的微博"
-keyword: "娄聪，lancelou, 1457564148, cdu, 王善玉, 王善玉男友"
+keyword: "娄聪，lancelou, 1457564148, cdu"
 url: "https://www.lancelou.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -71,7 +71,7 @@ ga_domain: lancelou.com
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "敲些代码，追追大神，依旧只会装逼！</br> 何日见暖阳!"
+sidebar-about-description: "我在风雨中行走，孤独也没有归途。我没有故事可讲，我只带着最爱的烈酒。</br> 你若愿意陪我就坐下举杯，我自然与你有来日方长!"
 sidebar-avatar: ../img/lance_avatar.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
