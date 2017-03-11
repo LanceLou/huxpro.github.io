@@ -31,7 +31,7 @@ tags:
 
 event loop, tick queue, 这个好解释，event loop咱们在JavaScript也有，那么说道NodeJS中的这个event loop，逃不开一个底层库libev(现集win平台的相关系统调用改名为libuv -> 跨平台)。它为 Node.js 提供了跨平台，线程池，事件池，异步 I/O 等能力，自然也是event loop的源泉(异步, 事件机制)。
 
-![nodejs](https://www.tuchuang001.com/image/urB8a)
+![nodejs](https://www.tuchuang001.com/images/2017/03/11/nodejs.jpg)
 
 #### libuv
 
@@ -39,7 +39,7 @@ event loop, tick queue, 这个好解释，event loop咱们在JavaScript也有，
 
 专为NodeJS写的，事件驱动和异步IO，跨平台的lib。调用系统I/O，网络。异步回调handler。
 
-![libuv](https://www.tuchuang001.com/image/urxvj)
+![libuv](https://www.tuchuang001.com/images/2017/03/11/architecture.png)
 
 那么事件驱动，异步I/O，自然需要一个机制，去听，去看哪个事件发生了，哪个系统调用有了响应，有了就赶紧回调，但你也别再哪儿守株待兔。
 
