@@ -20,7 +20,7 @@ OK, 入正题入正题，图片剪切应用。前几天，不对,前一两周做
 
 就直接上图了:
 
-![Demo](https://www.tuchuang001.com/images/2017/03/20/imgClipCapture.gif)
+![Demo](https://lh3.googleusercontent.com/gVKLRasLIJbVwPU7CXbWZ-9HdzaELtJB8I0nv_bABzA4y7kOTJOXI85F1Nc631AOvmKh_EewG-zkVb_4Lk42AOK4jA5TT1Ch=w1440-h900-rw-no)
 
 ## 知识点
 
@@ -170,7 +170,7 @@ URL.createObjectURL() 静态方法会创建一个 DOMString，它的 URL 表示�
 
 我们的剪切工具(ClipUtil)与目标图像(Target)的状态的位置以及包含关系有许多，简单的如包含，无重叠，以及:::
 
-![demo-3](https://www.tuchuang001.com/images/2017/03/20/ClipArae-demo.md.png)
+![demo-3](/img/in-post/ClipArae-demo.png)
 
 作者暂时没有想到特别好的处理办法，SO， 分情况讨论:
 

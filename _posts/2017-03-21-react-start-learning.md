@@ -22,12 +22,12 @@ tags:
 
 * 传统的JavaScript Dom操作:
 
-![traditionalDomUpdate](https://www.tuchuang001.com/images/2017/03/21/traditionalDomUpdate.png)
+![traditionalDomUpdate](/img/in-post/traditionalDomUpdate.png)
 
 
 * 但是，在React中，咱们写的JavaScript不在是和Dom打交道，而是和Virtual Dom打交道：
 
-![ReactDomUpdate](https://www.tuchuang001.com/images/2017/03/21/ReactDomUpdate.png)
+![ReactDomUpdate](/img/in-post/ReactDomUpdate.png)
 
 其实说React是一个库(Lib),我觉得他更像是一个框架，亦或者说是一个系统，为什么这么说呢，因为他从"底层"给我们封装了一个层，在这层之上，我们操作Virtual Dom，这层之下，React帮我们去实现真实的Dom更新，这样做有什么好处呢？在目前这个阶段，我个人的理解是:
 
