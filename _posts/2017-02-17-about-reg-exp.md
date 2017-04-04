@@ -4,7 +4,7 @@ title:      "也谈正则表达式"
 subtitle:   "正则表达式 in JavaScript"
 date:       2017-02-17 00:00
 author:     "LanceLou"
-header-img: "img/post-about-regexp.png"
+header-img: "img/post-about-regexp.jpg"
 catalog: true
 tags:
     - JavaScript
