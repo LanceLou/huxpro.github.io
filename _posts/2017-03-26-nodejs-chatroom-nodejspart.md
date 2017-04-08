@@ -110,7 +110,7 @@ JSONP + Polling， polling的原因不多说，JSONP本来是一种跨域解决�
 
 ## express
 
-***router模块***: NodeJS异步流程控制库，前身为connect，NodeJS以及整个JavaScript生态的异步性我想怎们都是没有异议的。
+***router模块***: NodeJS异步流程控制库，前身为connect，NodeJS以及整个JavaScript生态的异步性我想咱们都是没有异议的。
 
 #### 何为异步流程控制
 
@@ -149,7 +149,7 @@ app.use(session({
 }))
 ```
 
-当然，这只是异步流程流程控制中的一种场景。其实在NodeJS web服务器中，异步流程存在的还是相当多的。同时衍生了像async.js这样优秀的也不流程控制库。后期作者要着重介绍之。
+当然，这只是异步流程流程控制中的一种场景。其实在NodeJS web服务器中，异步流程存在的还是相当多的。同时衍生了像async.js这样优秀的异步流程控制库。后期作者要着重介绍之。
 
 ***express中其他模块***
 
