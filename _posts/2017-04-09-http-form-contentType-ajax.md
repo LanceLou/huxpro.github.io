@@ -193,6 +193,6 @@ yield -> 流读取？
 2. [FormData](https://developer.mozilla.org/en-US/docs/Web/API/FormData)
 
 
-—— Tth End
+—— The End
 
 —— LanceLou 2016.04.09
