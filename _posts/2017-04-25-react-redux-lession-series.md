@@ -2,7 +2,7 @@
 layout:     post
 title:      "跟着Dan Abramov一起学Redux系列"
 subtitle:   "React Redux"
-date:       2017-04-06 00:00
+date:       2017-04-25 00:00
 author:     "LanceLou"
 header-img: "img/post-react-redux-lession-series.jpg"
 catalog: true
