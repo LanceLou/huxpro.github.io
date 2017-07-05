@@ -7,10 +7,14 @@ author:     "LanceLou"
 header-img: "img/post-middleware-in-redux.jpg"
 catalog: true
 tags:
-    - react
+    - ReactJS初体验
     - redux
     - koa
 ---
+
+> 不忘初心，不负时光！
+>
+> ——LanceLou
 
 好久不见，各位，自五月初入职某厂一来，一直沉迷于需求，无法自拔。体重增少许，肚子大少许，其他一切安好。尴尬减肥.jpg!
 
