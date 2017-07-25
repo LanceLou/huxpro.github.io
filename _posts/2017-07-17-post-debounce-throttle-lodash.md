@@ -54,16 +54,6 @@ function execFunction(func) {
 
 当然，上面只是一个屌丝版，同时也不失为抛砖引玉，lodash coming！
 
-> Provide `options` to indicate whether `func` should be invoked on the
-leading and/or trailing edge of the `wait` timeout.
-> leading, trailing其实分别代表的是timeout之后的tick的开始时还是结束时
-> 
-> 
-> If `wait` is `0` and `leading` is `false`, `func` invocation is deferred until the next tick, similar to `setTimeout` with a timeout of `0`.
-> 
-> 
-> https://stackoverflow.com/questions/14912502/how-do-i-split-a-string-by-whitespace-and-ignoring-leading-and-trailing-whitespa (leading, trailing)
-
 
 在Lodash中，throttle是基于debounce来实现的，即throttle直接调用了debounce函数，只是做了一些配置，所以我们从Lodash的debounce函数开始介绍。
 
